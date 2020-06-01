@@ -1,0 +1,14 @@
+.bloque1 {
+  height: 70vh;
+}
+
+#input-number {
+  display: inline-block;
+  width: auto;
+}
+
+@media (min-width: 1000px) {
+  .bloque1 {
+    height: 100vh;
+  }
+}
